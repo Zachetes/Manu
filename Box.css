@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Caveat:wght@400..700&family=Madimi+One&display=swap');
+
+.titulo{
+background-color: #00b570;
+width: 98%;
+height: 60px;
+margin: 2px;
+padding: 10px;
+ }
+
+
+ .futebol {
+   font-family: 'Bitter';
+   display: block;
+   text-align: center;
+   display: inline-block;
+   margin-left: 450px;
+   font-size: 20px;
+   
+ }
+
+ .caixa1{
+    background-color: #00a087;
+    width: 10%;
+    height: 60px;
+    display: inline-block;
+    text-align: left;
+   
+ }
+
+ .quadrado1 {
+   background-color: #0074a2;
+   width:38%;
+   height: 300px;
+   margin-top: 50px;
+   margin-left: 40px;
+   display: inline-block;
+ }
+
+ .quadrado2
+ {
+   background-color: #0074a2;
+   width:38%;
+   height: 300px;
+   margin-top: 50px;
+   margin-left: 220px;
+   display: inline-block;
+
+ }
+
+ .quadrado3
+ {
+   background-color: #0074a2;
+   width:99%;
+   height: 98px;
+   margin-top: 50px;
+   color: aliceblue;
+   font-size: 20px;
+   text-align: center;
+   font-family: 'Madimi One'
+
+ }
+
+ body {
+  background-color: #c3fab8;
+ }
